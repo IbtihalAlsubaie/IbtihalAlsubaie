@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**IbtihalAlsubaie/IbtihalAlsubaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Ibtihal Ahmed Al-Subaie
+🌐 Software Developer | Riyadh, Saudi Arabia
+📧 Email: IbtihalAlSubaie@outlook.com
+📱 Phone: +966 53 347 7000
+👩‍🎓 Recent Programming Smart 
+Applications and Devices Graduate
+📚  Software Engineering Student
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me:
+🖥️ Experienced in Web Development and Application Programming.
+🧠 Skilled in Objective-C, Java, HTML, CSS, C#, Xamarin, Swift, PHP.
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=IbtihalAlsubaie&show_icons=true&hide_border=true)
